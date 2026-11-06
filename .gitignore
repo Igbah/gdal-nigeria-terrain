@@ -1,0 +1,12 @@
+*.tif
+*.tiff
+*.ovr
+*.vrt
+*.aux.xml
+*.gpkg
+*.adf
+nigeria_srtm/
+srtm/
+info/
+nigeria_terrain/
+file.txt
